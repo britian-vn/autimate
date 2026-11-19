@@ -1,0 +1,8 @@
+{
+  "name": "SyncCut Studio",
+  "description": "Trình dựng video thông minh giúp đánh giá nội dung ảnh, tự động ghép khớp theo giọng đọc MP3 và timeline lời nói, hỗ trợ dựng nối tiếp và xuất video trực tiếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
